@@ -1,2 +1,2 @@
 # tolearnpython
-My codes for learn
+My codes for study
